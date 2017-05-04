@@ -1,0 +1,17 @@
+.titulo{margin:200px auto 40px auto ; 
+	padding:0; width:900px;  
+	height:65px;
+	background-color: #33BEBE;
+	color:#ffffff;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+.contenido{margin:10px auto; 
+	color:#7C8B88;
+	width:900px;
+	height:400px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:26px; 
+	 }
+
+h1{margin:20px auto; padding:25px; font-size:36px; font-weight:normal; font-style:normal; line-height:normal;}
